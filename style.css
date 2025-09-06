@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+    background-color:#DAD3AB;
+    color: black;
+    margin: 0;
+}
+
+header {
+display: flex;
+justify-content: center;    
+ align-items: center;
+ margin-left: 100px;   
+}
+
+.button {
+padding: 15px;
+font-size: 25px;
+font-weight: 700;
+text-decoration: none;
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+ 
+color: black;   
+}
+
+nav {
+padding: 25px 100px 25px 95px;
+display:flex;
+flex-direction: column;
+align-items: center;   
+}
+
+.nav-link {
+    text-decoration: none;
+    color:#DAD3AB ;
+    background-color: black;
+    width: 100px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 7px;
+    padding: 10px 71px 10px 71px;
+    margin: 10px;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+img {
+border-radius: 30px;    
+}
